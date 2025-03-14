@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mendgart444
-- 👀 I’m interested in Rust, Python, Kotlin and C++
-- 🌱 I’m currently learning Rust and C++
+- 👀 I’m interested in Rust, Kotlin and C++
 
 <!---
 Mendgart444/Mendgart444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
