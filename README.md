@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mendgart444
-- 👀 I’m interested in Rust, Kotlin and C++
+ I Programm with Rust, C/C++ C# and Typescript
 
 <!---
 Mendgart444/Mendgart444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
